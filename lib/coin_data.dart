@@ -23,9 +23,26 @@ const List<String> currenciesList = [
 ];
 
 const List<String> cryptoList = [
+  'ADA',
+  'ALGO',
+  'AVAX',
+  'BCH',
+  'BNB',
   'BTC',
+  'BUSD',
+  'DOGE',
+  'DOT',
   'ETH',
+  'FIL',
+  'LINK',
   'LTC',
+  'LUNA',
+  'SOL',
+  'USDC',
+  'UNI',
+  'USDT',
+  'XRP',
+  'WBTC',
 ];
 
 class CoinData {}
